@@ -1,4 +1,4 @@
-# atividadeChaveEstrangeira
+# AtividadeChaveEstrangeira
 A atividade de bancos do dia 10/03/2023
 
 <p>1. No exercício BD-03-Exercicio da Tabela Revista e da Tabela Editora:<br>
